@@ -76,8 +76,8 @@
   <data name="Property_Description" xml:space="preserve">
     <value>Description</value>
   </data>
-  <data name="Property_CreateDate" xml:space="preserve">
-    <value>CreateDate</value>
+  <data name="Property_CreatedDate" xml:space="preserve">
+    <value>CreatedDate</value>
   </data>
   <data name="Property_Responsible" xml:space="preserve">
     <value>Responsible</value>
