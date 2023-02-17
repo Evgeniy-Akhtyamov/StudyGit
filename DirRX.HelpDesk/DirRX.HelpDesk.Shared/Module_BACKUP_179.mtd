@@ -21,8 +21,7 @@
     "Header": {
       "NameGuid": "70acaaa4-9dd3-4088-b726-6a82f68d6427",
       "BackgroundPosition": "Stretch"
-    },
-    "Tabs": []
+    }
   },
   "Dependencies": [
     {
@@ -35,6 +34,8 @@
   "ExplorerTreeOrder": [
     {
       "ItemId": "777801d5-52c2-4f93-8d21-6bdfd81dd813"
+<<<<<<< HEAD
+=======
     },
     {
       "ItemId": "0f103469-d84f-49ab-97f5-440a1772df13",
@@ -51,6 +52,7 @@
     {
       "ItemId": "7aedf71c-d82d-4013-b7e9-35d8331b631f",
       "PreviousItemId": "178a76ad-42e6-4a6a-9421-61b88fd971ae"
+>>>>>>> dd83316 (Создан документ AddendumRequest.)
     }
   ],
   "IconResourcesKeys": [],
@@ -71,7 +73,7 @@
   "Versions": [
     {
       "Type": "ModuleMetadata",
-      "Number": 8
+      "Number": 6
     },
     {
       "Type": "DomainApi",
